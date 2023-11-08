@@ -12,4 +12,5 @@
 
 Часть вывода:
 
-![image](https://github.com/anpudova/os/assets/90646684/6ea6ab26-23ca-4f98-a405-84a41bac9cff)
+![image](https://github.com/anpudova/os/assets/90646684/5962942f-1a74-4ccb-b1be-3a1b8fd09ea3)
+
